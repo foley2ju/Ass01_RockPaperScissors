@@ -87,6 +87,7 @@ public class Main {
 
         } while (playAgain == true);
 
+
         System.out.println("Thanks for playing!");
     }
 }
